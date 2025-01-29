@@ -1,6 +1,7 @@
 # Hi there 👋, My name is kalafe
 
-[![github-header-image-1.png](https://i.postimg.cc/ZKxTLwxQ/github-header-image-1.png)](https://postimg.cc/GH9wLJNP)
+![github-header-image (1)](https://github.com/user-attachments/assets/f84d8a09-f8a0-46b0-bd1a-29ea6ac99ccb)
+
 
 I'm kalafe, a full-time freelance developer 👨‍💻 working remotely since 2022 🚀
 

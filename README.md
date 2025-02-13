@@ -1,4 +1,4 @@
-# Hi there 👋, My name is kalafe
+# Hi there 👋, My name is Daniyal
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/f84d8a09-f8a0-46b0-bd1a-29ea6ac99ccb)
 
